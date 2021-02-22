@@ -1,0 +1,19 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+   
+}
+.calc{
+    width: 400px;
+    height: 600px;
+    border: black;
+    
+}
+.row{
+    display: flex;
+    width: 100%;
+
+}

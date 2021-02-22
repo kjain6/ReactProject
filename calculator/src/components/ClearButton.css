@@ -1,0 +1,14 @@
+.clear-button{
+    height:5em ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight :bold;
+      font-size: 1.5em;
+    background-color:rgb(41, 158, 86);
+    flex: 1;
+    color: black;
+    outline: 2px solid rgb(13, 14, 13) ;
+
+}
+/* Styling the ClearButton */
